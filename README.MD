@@ -30,7 +30,7 @@ Em resumo, os códigos da etapa III são uma parte do pipeline de ETL no AWS Glu
 
 ### Modelo Dimensional
 
-![**Modelo Dimensional**](//evidencias/modelo_dimensional.jpg)
+![**Modelo Dimensional**](/evidencias/modelo_dimensional.jpg)
 
 
 ## Etapa IV
